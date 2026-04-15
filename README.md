@@ -4,3 +4,5 @@ There are two folders:
    This folder contains notebooks with unfinished code that serve as exercises for students.
 2) instructor_copies
    This folder contains notebooks with all of the code filled for instructors
+
+These notebooks were based on work by Ian Spurgeon, Christopher Berndsen, and others as credited in the exercises.
