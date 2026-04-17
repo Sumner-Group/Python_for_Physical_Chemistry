@@ -1,3 +1,4 @@
+#Python for Physical Chemistry
 This is a series of five Python notebooks written to introduce coding to students in an advanced chemistry class (Chem 432, Physical Chemistry II), at James Madison University. The notebooks are intended to be run using
 Google Colaboratory, since it does not require students to download extra software on their devices. The notebooks were made to supplement some of the assigned problem sets and some may refer to specific questions in those
 sets. However, the notebooks can be used without the referenced problem sets and any mention of them can be removed if needed.
