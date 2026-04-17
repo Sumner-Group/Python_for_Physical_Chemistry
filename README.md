@@ -5,4 +5,7 @@ There are two folders:
 2) instructor_copies
    This folder contains notebooks with all of the code filled for instructors
 
+Exercise 1 introduces students to basic Python syntax, loops, and importing libraries. Students then calculate energy levels for the 1D particle-on-a-line (particle-in-a-box).
+$\dot$Exercise 2 introduces students to  
+
 These notebooks were based on work by Ian Spurgeon, Christopher Berndsen, and others as credited in the exercises.
